@@ -7,11 +7,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📈 &nbsp;About me
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🏢 I am currently working as a **Junior Systems Analyst** at [Corporativo EMETH](https://sistemasemeth.com.mx/) 
+- 🎓Computer Engineer Student at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
 - 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
+- 🏡'Lives in **México City**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 ### 📈 &nbsp;GitHub Analytics
