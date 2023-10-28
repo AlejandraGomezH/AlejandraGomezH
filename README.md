@@ -3,12 +3,19 @@
 
 <img src="https://cdn.discordapp.com/attachments/820719675675508739/1167962694767362058/github_aleg.png?ex=65500906&is=653d9406&hm=eed4523ab09f0d2e5eb36a0be0024ec9baf828da218fa1ce778b77e96f569d31&">
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Coding Skills🤝</h2></summary>
+  </ul>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ 
 ### 📈 &nbsp;About me
 - 🏢 I am currently working as a **Junior Systems Analyst** at [Corporativo EMETH](https://sistemasemeth.com.mx/) 
-- 🎓Computer Engineer Student at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
+- 🎓**Computer Engineer Student** at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
 - 🧑‍💻Lives in **México City**
 - ⚡ **Fun Facts** : 🍕  ⚽  🚞
 
