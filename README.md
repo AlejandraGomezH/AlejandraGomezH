@@ -1,15 +1,12 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1>Hola soy Alejandra</h1>
+<h1 align="center">Hola soy Alejandra</h1>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Mis redes🤝</h2></summary>
-  </ul>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📈 &nbsp;About me
+
 
 ### 📈 &nbsp;GitHub Analytics
 
@@ -20,6 +17,13 @@
 </a>
 </p>
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Mis redes🤝</h2></summary>
+  </ul>
+</div>
 
 <!--icons and links-->
 <p align="center">
