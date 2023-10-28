@@ -5,13 +5,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Coding Skills🤝</h2></summary>
   </ul>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=5"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=5"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nodejs&perline=5"/>
+  </a>
+</p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
  
 ### 📈 &nbsp;About me
 - 🏢 I am currently working as a **Junior Systems Analyst** at [Corporativo EMETH](https://sistemasemeth.com.mx/) 
