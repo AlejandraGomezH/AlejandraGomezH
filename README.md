@@ -9,9 +9,8 @@
 ### 📈 &nbsp;About me
 - 🏢 I am currently working as a **Junior Systems Analyst** at [Corporativo EMETH](https://sistemasemeth.com.mx/) 
 - 🎓Computer Engineer Student at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🏡'Lives in **México City**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🧑‍💻Lives in **México City**
+- ⚡ **Fun Facts** : 🍕  ⚽  🚞
 
 ### 📈 &nbsp;GitHub Analytics
 
